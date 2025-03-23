@@ -1,11 +1,11 @@
 <script setup>
 import { useRoute } from "vue-router"
-import usePokemonEspecifico from "../composables/usePokemonEspecifico.js"
+import usePokemonEspecifico from "../composables/UsePokemonEspecifico.js"
 
 const route = useRoute()
 const id = parseInt(route.params.id) + 1
 const url = "https://pokeapi.co/api/v2/pokemon/" + id
-.
+
 const { data } = usePokemonEspecifico(url)
 </script>
 

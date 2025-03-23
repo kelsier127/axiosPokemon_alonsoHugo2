@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Revelations: Persona",
+      "year": 1996,
+      "platforms": ["PlayStation", "PSP"],
+      "genre": "JRPG",
+      "developer": "Atlus",
+      "description": "El primer juego de la saga Persona, centrado en estudiantes que combaten criaturas usando sus 'Personas'."
+    },
+    {
+      "id": 2,
+      "title": "Persona 2: Innocent Sin",
+      "year": 1999,
+      "platforms": ["PlayStation", "PSP"],
+      "genre": "JRPG",
+      "developer": "Atlus",
+      "description": "Una historia oscura que explora rumores que se hacen realidad. Parte de un díptico junto a 'Eternal Punishment'."
+    },
+    {
+      "id": 3,
+      "title": "Persona 2: Eternal Punishment",
+      "year": 2000,
+      "platforms": ["PlayStation", "PSP (solo en Japón)"],
+      "genre": "JRPG",
+      "developer": "Atlus",
+      "description": "Segunda parte de Persona 2, con una nueva protagonista y perspectiva sobre los eventos del primer juego."
+    },
+    {
+      "id": 4,
+      "title": "Persona 3",
+      "year": 2006,
+      "platforms": ["PlayStation 2", "PSP", "Xbox Series X/S", "PC", "Switch"],
+      "genre": "JRPG, Social Simulation",
+      "developer": "Atlus",
+      "description": "Introdujo la mecánica del simulador social junto a la exploración de mazmorras y combate por turnos."
+    },
+    {
+      "id": 5,
+      "title": "Persona 4",
+      "year": 2008,
+      "platforms": ["PlayStation 2", "PS Vita", "PC", "Switch", "Xbox"],
+      "genre": "JRPG, Social Simulation",
+      "developer": "Atlus",
+      "description": "Un grupo de estudiantes investiga asesinatos en un pequeño pueblo a través de un mundo televisivo alternativo."
+    },
+    {
+      "id": 6,
+      "title": "Persona 5",
+      "year": 2016,
+      "platforms": ["PS3", "PS4", "PS5", "PC", "Switch", "Xbox"],
+      "genre": "JRPG, Social Simulation",
+      "developer": "Atlus",
+      "description": "Un grupo de ladrones fantasma lucha contra la corrupción en Tokio infiltrándose en los 'Palacios' del subconsciente."
+    },
+    {
+      "id": 7,
+      "title": "Persona 5 Royal",
+      "year": 2019,
+      "platforms": ["PS4", "PS5", "PC", "Switch", "Xbox"],
+      "genre": "JRPG, Social Simulation",
+      "developer": "Atlus",
+      "description": "Versión expandida de Persona 5, con nuevos personajes, contenido adicional y mejoras de calidad de vida."
+    },
+    {
+      "id": 8,
+      "title": "Persona Q: Shadow of the Labyrinth",
+      "year": 2014,
+      "platforms": ["Nintendo 3DS"],
+      "genre": "Dungeon Crawler",
+      "developer": "Atlus",
+      "description": "Crossover de los elencos de Persona 3 y 4 en estilo chibi, con exploración de mazmorras en primera persona."
+    },
+    {
+      "id": 9,
+      "title": "Persona 4 Arena",
+      "year": 2012,
+      "platforms": ["PS3", "Xbox 360", "PC"],
+      "genre": "Lucha 2D",
+      "developer": "Atlus, Arc System Works",
+      "description": "Spin-off de lucha con personajes de Persona 3 y 4, en colaboración con Arc System Works."
+    },
+    {
+      "id": 10,
+      "title": "Persona 5 Strikers",
+      "year": 2020,
+      "platforms": ["PS4", "PC", "Switch"],
+      "genre": "Action RPG / Musou",
+      "developer": "Atlus, Omega Force",
+      "description": "Secuela directa de Persona 5 con jugabilidad estilo Musou al estilo de Dynasty Warriors."
+    }
+  ]
+  

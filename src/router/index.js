@@ -3,6 +3,7 @@ import HomeView from '../views/HomeView.vue'
 import PokemonesView from '@/views/PokemonesView.vue'
 import PokemonEspecificoView from '@/views/PokemonEspecificoView.vue'
 import CarritoView from '@/views/CarritoView.vue'
+import TaskList from '@/views/TaskList.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -27,6 +28,11 @@ const router = createRouter({
       path: '/carrito',
       name: 'carrito',
       component: CarritoView,
+    },
+    {
+      path: '/taskList',
+      name: 'taskList',
+      component: TaskList
     },
     //aqui añadir vistas
   ],
