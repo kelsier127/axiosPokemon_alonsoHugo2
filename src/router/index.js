@@ -6,6 +6,7 @@ import CarritoView from '@/views/CarritoView.vue'
 import TaskList from '@/views/TaskList.vue'
 import PersonaGamesView from '@/views/PersonaGamesView.vue'
 import PersonaSingleView from '@/views/PersonaSingleView.vue'
+import VueBasicoView from '@/views/VueBasicoView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -35,6 +36,11 @@ const router = createRouter({
       path: '/taskList',
       name: 'taskList',
       component: TaskList
+    },
+    {
+      path: '/vueBasico',
+      name: 'vueBasico',
+      component: VueBasicoView
     },
     {
       path: '/personaGames',
